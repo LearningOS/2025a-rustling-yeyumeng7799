@@ -8,7 +8,7 @@
 fn sort<T>(array: &mut [T]){
 	//TODO
 }
-#[cfg(test)]
+#[cfg(test)
 mod tests {
     use super::*;
 
